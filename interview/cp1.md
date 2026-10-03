@@ -29,7 +29,7 @@ Solution → Người học nhận ra lỗ hổng kiến thức cụ thể của
 ## 3. Actor — Xác định các nhóm người có liên quan
 
 | Actor                    | Họ đang làm gì?                                | Pain hoặc hậu quả có thể có                                                                    | Họ hưởng lợi thế nào?                                                           |
-|--------------------------| ---------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ------------------------ | ---------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | **Học viên**             | Đang học bài giảng/đọc tài liệu trên hệ thống. | Không hiểu bài do hổng kiến thức nền, mất thời gian tự tra cứu, dễ nản và bỏ học.              | Tiết kiệm thời gian tự tra cứu, duy trì được mạch học, hiểu bài sâu hơn.        |
 | **Lab Coach**            | Hỗ trợ học viên, trả lời câu hỏi thắc mắc.     | Phải trả lời đi trả lời lại các câu hỏi về kiến thức rất cơ bản đáng lẽ học viên phải nắm rồi. | Giảm tải câu hỏi lặp lại, tập trung thời gian hướng dẫn các kiến thức nâng cao. |
 | **Người soạn bài giảng** | Xây dựng nội dung khóa học.                    | Khóa học có tỷ lệ drop-out cao ở những bài khó.                                                | Tăng tỷ lệ hoàn thành khóa học, chất lượng đầu ra của học viên tốt hơn.         |
@@ -85,4 +85,4 @@ Học viên thực tế biết rất rõ mình đang quên kiến thức gì, v�
 | 2. Bài mini-test đầu mỗi chương học để kiểm tra kiến thức cũ, nếu sai hệ thống sẽ tự động gợi ý link bài đọc ôn tập. | Không sử dụng AI |
 | 3. Knowledge graph (bản đồ khái niệm) đính kèm mỗi bài học, hiển thị các khái niệm tiên quyết để học viên click vào ôn lại. | Không sử dụng AI |
 | 4. Highlight các thuật ngữ/khái niệm khó, tự động hiện popup định nghĩa ngắn khi di chuột vào (Tooltip). | Không sử dụng AI |
-| 5. Nút "SOS" gợi ý hỏi bạn bè/mentor đang online và đã master nội dung của bài học này. | Không sử dụng AI |
+| 5. Nút "Trợ giúp" gợi ý hỏi bạn bè/mentor đang online và đã master nội dung của bài học này. | Không sử dụng AI |
